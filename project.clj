@@ -1,5 +1,6 @@
 (defproject webapp-sandbox "1.0.0-SNAPSHOT"
   :description "A Clojure project for testing out webapp stuff"
+  :main "webapp-sandbox.server"
   :dependencies [
     [org.clojure/clojure "1.2.1"]
     [org.clojure/clojure-contrib "1.2.0"]
